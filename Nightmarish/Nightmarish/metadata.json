@@ -1,0 +1,11 @@
+{
+  "id": "NIGHTMARISH",
+  "name": "Nightmarish",
+  "author": ["asciidisco, Nightmare"],
+  "description": "Balatro but Nightmarishly brütal",
+  "prefix": "nght",
+  "main_file": "main.lua",
+  "version": "1.3.0n",
+  "priority": 0,
+  "dependencies": ["Steamodded (>=1.0.0~ALPHA-1203b)", "Lovely (>=0.6)"]
+}
