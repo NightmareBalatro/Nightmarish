@@ -1,12 +1,21 @@
+![Nightmarish Teaser Image, contains a cat](.github/assets/thumbnail.jpg)
+
 ## Nightmarish
 
->  Balatro but Nightmarishly Brütal.
+*Balatro but Nightmarishly Brütal.*
 
-Nerfs all jokers, have a hard time, you're welcome.
+Nerfs all jokers, planets, tarots, editions & enhancements.
+Have a hard time, you're welcome.
 
 ## Install instructions
 
 > This mod needs `Lovely` & `Steammodded`
+
+### The easy way
+
+The mod is available via the [Balatro Mod Manager](https://balatro-mod-manager.dasguney.com/)
+
+### The hard way
 
 1. Preparations
 
@@ -24,4 +33,4 @@ Nerfs all jokers, have a hard time, you're welcome.
 
     Download the [Nightmarish.zip](https://github.com/NightmareBalatro/Nightmarish/releases/) from the GitHub releases & unzip it.
     Place the `Nightmarish` folder into `%appdata%/Balatro/Mods`.
-    Restart the game & the mod should show up in the main menu under mods. 
+    Restart the game & the mod should show up in the main menu under mods.

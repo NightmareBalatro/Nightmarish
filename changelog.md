@@ -12,7 +12,12 @@
   * Split files between logic & joker nerf tables
   * Adds Raised Fist nerf, Raised Fist now only gives 1x the mult of the lowest card in hand
 
-## V 1.3.0n, Nightmare's Update
+## V 1.3.0, Nightmare's Update
   * Nerfs most Jokers AGAIN, ontop of pervious nerfs
   * Changed authors to asciidisco, and Nightmare
   * Changed description to be grammatically correct
+  
+## V 1.4.0, Nerf all the things
+  * Splits code into modules
+  * Adds Planets, Enhancements, Editions & Tarot nerfs
+  * Updates Readme

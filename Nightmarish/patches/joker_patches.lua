@@ -1,5 +1,3 @@
---[[ You can edit values in JOKER_PATCHES below ]]--
-
 return {
     -- Banana vanilla: config.extra = { odds = 4, mult = 15 }
     -- Make it score less (7 mult) AND the chance to be able to off itself 1 in 2
@@ -358,6 +356,7 @@ return {
     },
 
     j_luchador = {
+        rarity = 3,
         cost = 8
     },
 
@@ -567,27 +566,27 @@ return {
     },
 
     j_hit_the_road = {
-        config = { extra = 0.25 }
+        config = { extra = 0.2 }
     },
 
     j_duo = {
-        config = { Xmult = 1.5, type = 'Pair' }
+        config = { Xmult = 1.5, type = 'Three of a Kind' }
     },
 
     j_trio = {
-        config = { Xmult = 2, type = 'Three of a Kind' }
+        config = { Xmult = 2, type = 'Four of a Kind' }
     },
 
     j_family = {
-        config = { Xmult = 3, type = 'Four of a Kind' }
+        config = { Xmult = 3, type = 'Five of a Kind' }
     },
 
     j_order = {
-        config = { Xmult = 2.5, type = 'Straight' }
+        config = { Xmult = 2.5, type = 'Straight Flush' }
     },
 
     j_tribe = {
-        config = { Xmult = 1.5, type = 'Flush' }
+        config = { Xmult = 1.5, type = 'Flush House' }
     },
 
 
